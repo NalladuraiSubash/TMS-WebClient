@@ -4,7 +4,7 @@ export interface TaskListInterface {
     }
     data: {
         TaskListData: Array<any>
-        baseSetup: object
+        baseSetup: any
     }
     callbacks: {
         handleTaskEdit: Function

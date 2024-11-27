@@ -1,5 +1,5 @@
 module.exports = class Configuration {
-    GATEWAY_URL = 'https://tms-dataaccesslayer.onrender.com/';
+    GATEWAY_URL = 'https://tms-dataaccesslayer.onrender.com/api/rest/tms/dataaccess/1.0.0/';
     GATEWAY_USERNAME = 'QP0192923232LD';
     GATEWAY_PASSWORD = '927NBGJJ0283HKA74782';
     HEADERS = {

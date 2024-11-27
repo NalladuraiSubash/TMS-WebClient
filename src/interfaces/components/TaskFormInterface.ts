@@ -3,9 +3,9 @@ export interface TaskFormInterface {
         datatestID: string
     }
     data: {
-        taskData: Object
+        taskData: any
         isEditForm: boolean
-        baseData: Object
+        baseData: any
     }
     callbacks: {
         handleCreate: Function
